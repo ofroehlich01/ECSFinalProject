@@ -1,0 +1,65 @@
+ 
+h1 {
+    background-color: #a0b9e2;
+    border-style: solid;
+    border-color: #df9a9a;
+    border-width: 5px;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 25px 50px 25px 50px;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+    /* Font size, font type, font color, etc.) */
+} 
+body {
+	background-color: black;
+}
+
+p {
+	color: white;
+	font-family: Verdana, Tahoma, sans-serif;
+}
+/*Top, right, bottom, left*/
+div.left {
+	color: white;
+	font-family: Verdana, Tahoma, sans-serif;
+	background-color: #a0b9e2;
+    border-style: solid;
+    border-color: #df9a9a;
+    border-width: 5px;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+  	
+  	left: 10px;
+  	width: 30%;
+
+}
+
+div.center {
+	color: white;
+	font-family: Verdana, Tahoma, sans-serif;
+	background-color: #a0b9e2;
+    border-style: solid;
+    border-color: #df9a9a;
+    border-width: 5px;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+  	
+  	width: 30%;
+
+}
+
+div.right {
+	color: white;
+	font-family: Verdana, Tahoma, sans-serif;
+	background-color: #a0b9e2;
+    border-style: solid;
+    border-color: #df9a9a;
+    border-width: 5px;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+  	
+  	right: 25px;
+  	width: 30%;
+
+}
+
